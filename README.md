@@ -2,53 +2,31 @@
 
 A repository dedicated to exploring Machine Learning concepts, algorithms, and Data Science techniques through practical projects and experiments using Python.
 
-## About
-
-This repository serves as a learning environment for developing and improving skills in Machine Learning and Data Science.
-
-It contains independent projects and experiments covering different topics, from data analysis and visualization to Machine Learning algorithms and predictive models.
-
-## Technologies
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- Jupyter Notebook
-
 ## Projects
 
 ### 01. Server Anomaly Detection
 
-An exploratory project focused on identifying unusual patterns in server performance metrics, including CPU usage, memory consumption, and network activity.
+**Status:** In Progress
+
+An exploratory Machine Learning project focused on identifying unusual patterns in server performance metrics, including CPU usage, memory consumption, and network activity.
 
 **Technologies:** Python, NumPy, Pandas, Matplotlib, Scikit-learn, Jupyter Notebook.
 
-**Status:** In Progress
+### 02. Student Performance Prediction
 
-## Learning Goals
+**Status:** Planned — Next Project
 
-- Explore Machine Learning concepts and algorithms.
-- Develop practical Data Science skills.
-- Improve data analysis and visualization techniques.
-- Understand and implement Machine Learning models.
-- Apply computational techniques to practical problems.
+A Machine Learning project focused on analyzing student data and predicting academic performance based on factors such as study hours, attendance, and previous grades.
 
-## Repository Structure
+**Technologies:** Python, NumPy, Pandas, Matplotlib, Scikit-learn, Jupyter Notebook.
 
-```text
-machine-learning-lab/
-│
-├── 01-server-anomaly-detection/
-│   ├── data/
-│   ├── notebooks/
-│   └── README.md
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
+### 03. Sentiment Analysis
+
+**Status:** Planned
+
+A Natural Language Processing (NLP) project focused on analyzing text and classifying its sentiment, such as positive, negative, or neutral.
+
+**Technologies:** Python, Pandas, Scikit-learn, Natural Language Processing (NLP).
 
 ## Author
 
